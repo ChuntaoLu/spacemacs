@@ -57,7 +57,7 @@ As it is written, that is _space_ then _macs_.
 
 ** Why are packages installed with =package-install= automatically deleted by Spacemacs when it boots?
 To declare new packages you have to create a new configuration layer or add the
-package name to the variable =dotspacemacs-additonal-packages= of your dotfile,
+package name to the variable =dotspacemacs-additional-packages= of your dotfile,
 see the [[file:QUICK_START.org][quick start guide]] for more info.
 
 ** How to fix package download errors when installing Spacemacs ?
